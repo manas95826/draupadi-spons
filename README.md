@@ -1,14 +1,12 @@
-# draupadi-spons
+# Draupadi-Spons
 
 
-Github pages:
+## Github pages:
 https://manas95826.github.io/draupadi-spons/
 
-HuggingFace:
+## HuggingFace:
 https://huggingface.co/spaces/themanas021/draupadi-spons
 
-
-# Draupadi-Spons
 
 ## Empowering Women Through Knowledge
 
@@ -36,9 +34,9 @@ We welcome contributions from individuals passionate about promoting gender dive
 
 For more information, feedback, or inquiries, please feel free to reach out to us:
 
-- **Email:** [info@draupadi-spons.example.com](mailto:info@draupadi-spons.example.com)
+- **Email:** [info@draupadi-spons.com](mailto:info@draupadi-spons.com)
 - **Phone:** +1 (123) 456-7890
-- **Location:** [Your Address Here]
+- **Location:** xyz
 
 ### License:
 
