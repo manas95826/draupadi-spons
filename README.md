@@ -23,11 +23,10 @@ Draupadi-Spons is a platform dedicated to amplifying the voices and expertise of
 
 ### How to Use:
 
-1. **Visit the Website:** [Draupadi-Spons](https://draupadi-spons.example.com)
-2. **Search for Speakers:** Enter a topic of interest in the search bar to find recommended female speakers.
-3. **Explore Profiles:** Discover speakers' expertise, contact information, and past campaigns they've been involved in.
-4. **Contact Speakers:** Reach out to speakers directly via email or phone for inquiries and bookings.
-5. **Stay Engaged:** Explore past campaigns and initiatives aimed at empowering women in different fields.
+1. **Search for Speakers:** Enter a topic of interest in the search bar to find recommended female speakers.
+2. **Explore Profiles:** Discover speakers' expertise, contact information, and past campaigns they've been involved in.
+3. **Contact Speakers:** Reach out to speakers directly via email or phone for inquiries and bookings.
+4. **Stay Engaged:** Explore past campaigns and initiatives aimed at empowering women in different fields.
 
 ### Contributing:
 
